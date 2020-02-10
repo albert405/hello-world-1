@@ -6,7 +6,7 @@
 
 
 <ul>
-	<li>test list</li>
-	<li>test list</li>
+	<li>new list</li>
+	<li>new2 list</li>
 	<li>test list</li>
 </ul>
